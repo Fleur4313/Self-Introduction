@@ -1,6 +1,8 @@
 
 Lefei Chen                 		                              E-mail:lefei.chen2016@gmail.com Tel:(404)804-2351 
+
                                                                   1659 Briarcliff Rd NE, Apt 1213, Atlanta, GA 30306
+                                                                  
 EDUCATION
 Fudan University    Major: Software Engineering  GPA: 3.52/4.0   Rank: 8/80                                 July 2016
 Emory University    Major: Computer Science    GPA: 3.85/4.0                        	                   May 2018
